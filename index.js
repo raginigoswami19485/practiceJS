@@ -9,11 +9,38 @@
 // }
 let marks=[98,78,90,76,96];
 console.log(marks);
-for (let i=0; i<marks.length;++i){
-    console.log(marks[i]);
-}
+// for (let i=0; i<marks.length;++i){
+//     console.log(marks[i]);
+// }
 let data=["ram,shayam,rohit ,divya "];
 console.log(data);
 for(let imp of data){
 console.log(imp.toUpperCase());
 }
+
+for ( let i=1;i<=5;++i ){
+    console.log(" hello i am ragini");
+}
+let str= "ragini";     
+console.log (str.toUpperCase());
+console.log(str.replaceAll("ragini","khushbu"))
+console.log(str)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
